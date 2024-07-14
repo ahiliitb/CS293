@@ -1,0 +1,6 @@
+Receiver is listening on port 8888
+X1Y-1$10hello
+No Trade
+Y1Z-1$-15hello
+No Trade
+X-1Z1$10hello

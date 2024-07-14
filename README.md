@@ -1,1 +1,1 @@
-# CS293
+# CS293_Algotrading_Project
